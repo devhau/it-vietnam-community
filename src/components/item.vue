@@ -15,7 +15,7 @@ export default {
 
 <style>
 .item {
-  height: 300px;
+  height: 200px;
   width: 300px;
   padding: 5px;
   border: 2px solid rgb(36, 67, 114);
