@@ -1,7 +1,7 @@
 <template>
   <div class="item">
     <h3>{{ data.title }}</h3>
-    <h5>{{ data.title }}</h5>
+    <h5>{{ data.info }}</h5>
     <h5>Zalo : <a :href=" data.link"> {{ data.link }}</a></h5>
   </div>
 </template>
