@@ -7,6 +7,24 @@ export default [
     },
     {
         "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về Reactjs Và React Navite",
+        "title": "React Vietnam Community",
+        "link": "https://zalo.me/g/vcttei546"
+    },
+    {
+        "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về VUEJS",
+        "title": "VUE Vietnam Community",
+        "link": "https://zalo.me/g/krdrxg209"
+    },
+    {
+        "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về Nodejs",
+        "title": "Nodejs Vietnam Community",
+        "link": "https://zalo.me/g/rlwita867"
+    },
+    {
+        "icon": "",
         "info": "Trao đổi và giao lưu kiến thức về CSharp và dotnet",
         "title": "CSharp Vietnam Community",
         "link": "https://zalo.me/g/gfmxld181"
@@ -22,18 +40,6 @@ export default [
         "info": "Trao đổi và giao lưu kiến thức về PHP",
         "title": "PHP Vietnam Community",
         "link": "https://zalo.me/g/motdoq855"
-    },
-    {
-        "icon": "",
-        "info": "Trao đổi và giao lưu kiến thức về Reactjs Và React Navite",
-        "title": "React Vietnam Community",
-        "link": "https://zalo.me/g/vcttei546"
-    },
-    {
-        "icon": "",
-        "info": "Trao đổi và giao lưu kiến thức về Nodejs",
-        "title": "Nodejs Vietnam Community",
-        "link": "https://zalo.me/g/rlwita867"
     },
     {
         "icon": "",
