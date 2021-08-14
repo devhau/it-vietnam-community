@@ -1,8 +1,10 @@
 <template>
   <div class="item">
-    <h3>{{ data.title }}</h3>
-    <h5>{{ data.info }}</h5>
-    <h5>Zalo : <a :href=" data.link"> {{ data.link }}</a></h5>
+    <div class="box">
+      <h3>{{ data.title }}</h3>
+      <h5>{{ data.info }}</h5>
+      <h5>Zalo : <a :href=" data.link"> {{ data.link }}</a></h5>
+    </div>
   </div>
 </template>
 
@@ -16,14 +18,27 @@ export default {
 <style>
 .item {
   height: 200px;
-  width: 300px;
+  width: 23.5%;
   padding: 5px;
+  margin: 0;
+}
+.item .box{  
   border: 2px solid rgb(36, 67, 114);
-  margin: 5px;
   background: #fff;
   color: rgb(36, 67, 114);
+  height: 100%;
 }
-.item a{
+@media only screen and (max-width: 768px) {
+  .item {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+  .item {
+    width: 48%;
+  }
+}
+.item a {
   color: rgb(36, 67, 114);
 }
 </style>

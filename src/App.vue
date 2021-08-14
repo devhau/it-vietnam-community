@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Cộng đồng công nghệ thông tin trên zalo</h1>
     <Group/>
   </div>
 </template>

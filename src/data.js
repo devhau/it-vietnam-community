@@ -19,6 +19,12 @@ export default [
     },
     {
         "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về Angular",
+        "title": "Angular Vietnam Community",
+        "link": "https://zalo.me/g/nkkvzc035"
+    },
+    {
+        "icon": "",
         "info": "Trao đổi và giao lưu kiến thức về Nodejs",
         "title": "Nodejs Vietnam Community",
         "link": "https://zalo.me/g/rlwita867"
