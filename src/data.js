@@ -1,6 +1,12 @@
 export default [
     {
         "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về DevOps",
+        "title": "DevOps Vietnam Community",
+        "link": "https://zalo.me/g/pmfqnl821"
+    },
+    {
+        "icon": "",
         "info": "Trao đổi và giao lưu kiến thức về Flutter",
         "title": "Flutter Vietnam Community",
         "link": "https://zalo.me/g/dgvxnm508"
