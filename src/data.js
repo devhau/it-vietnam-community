@@ -1,6 +1,18 @@
 export default [
     {
         "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về Blockchain (Dành cho lập trình viên thôi nhé)",
+        "title": "Blockchain Vietnam Community",
+        "link": "https://zalo.me/g/aogleb689"
+    },
+    {
+        "icon": "",
+        "info": "Trao đổi và giao lưu kiến thức về Python",
+        "title": "Python Vietnam Community",
+        "link": "https://zalo.me/g/vgmkqe085"
+    },
+    {
+        "icon": "",
         "info": "Trao đổi và giao lưu kiến thức về DevOps",
         "title": "DevOps Vietnam Community",
         "link": "https://zalo.me/g/pmfqnl821"
